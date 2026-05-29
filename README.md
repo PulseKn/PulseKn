@@ -15,10 +15,7 @@
 
 <h3 align="center">Full-stack engineer and systems programmer with 5+ years of experience across the entire stack.</h3>
 <h4 align="center">
-  I work from bare-metal assembly up to reactive frontends — and everything in between.<br>
-  50+ languages. Not collected for the sake of it. Picked up because the job called for them.<br>
-  Most of what's here is stuff that needed to exist or wasn't built the right way anywhere else.<br>
-  Got something hard to build? Good — that's the interesting kind.
+  Hey i am Pulse, i know well over 50 coding languaches and i love programming. Check my stats below .
 </h4>
 
 ---
