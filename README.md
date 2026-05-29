@@ -1,252 +1,103 @@
-<div align="center">
+## Hi there, I'm Pulse 👋
 
-```
-██████╗ ██╗   ██╗██╗     ███████╗███████╗
-██╔══██╗██║   ██║██║     ██╔════╝██╔════╝
-██████╔╝██║   ██║██║     ███████╗█████╗  
-██╔═══╝ ██║   ██║██║     ╚════██║██╔══╝  
-██║     ╚██████╔╝███████╗███████║███████╗
-╚═╝      ╚═════╝ ╚══════╝╚══════╝╚══════╝
-```
+I'm a full-stack engineer and systems programmer who works across the entire stack — from bare-metal assembly and memory-safe Rust to cloud-native microservices and reactive frontends. I don't specialize in one layer; I understand all of them.
 
-### Full-Stack Engineer · Systems Architect · Language Polyglot
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=50%2B+Languages+%26+Frameworks;From+Assembly+to+WebAssembly;Low-level+to+Cloud-native;Building+the+stack%2C+all+of+it.)](https://git.io/typing-svg)
-
-</div>
+- 🔭 Currently building distributed systems, smart contract tooling, and cross-platform apps
+- 🌱 Always going deeper — currently focused on WASM component linking and Zig as a C replacement
+- 👯 Open to collaborating on open-source systems tools, language runtimes, or anything ambitious
+- 💬 Ask me about language internals, architecture tradeoffs, or why your query is slow
+- ⚡ Fun fact: I've written production code in over 50 languages — and I can tell you exactly why each one was the right choice for that job
 
 ---
 
-## `whoami`
+### 🛠️ Languages & Technologies
 
-```bash
-$ pulse --info
-```
+**Systems & Low-Level**
 
-```
-Name        : Pulse
-Role        : Full-Stack Engineer / Systems Programmer
-Depth       : Assembly → Application Layer → Cloud
-Philosophy  : Understand the machine. Then abstract it beautifully.
-Status      : [ currently shipping ]
-```
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WASM-654FF0?style=flat&logo=webassembly&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-003A6C?style=flat&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat&logo=fortran&logoColor=white)
 
-> *The craft isn't in knowing one tool perfectly — it's in knowing which tool belongs, and why.*
+**Web & Frontend**
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=flat&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black)
 
-## ⚡ Technology Arsenal
+**Backend & Server-Side**
 
-<details>
-<summary><strong>🧠 Systems & Low-Level</strong></summary>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 
-| Language | Proficiency | Notes |
-|----------|-------------|-------|
-| **C** | ███████████ Expert | Memory management, OS primitives, embedded |
-| **C++** | ███████████ Expert | Templates, RAII, modern C++20/23 |
-| **Rust** | ██████████░ Expert | Zero-cost abstractions, ownership model |
-| **Assembly** | ████████░░░ Advanced | x86/x64, optimization, reverse engineering |
-| **WASM** | ████████░░░ Advanced | Browser-native binary, WASI runtimes |
-| **Zig** | ███████░░░░ Proficient | Comptime, C interop, build system |
-| **Pascal** | ██████░░░░░ Proficient | Legacy systems, Delphi ecosystem |
+**Functional & Esoteric**
 
-</details>
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-378BBA?style=flat&logo=fsharp&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=flat&logo=clojure&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat&logoColor=white)
+![APL](https://img.shields.io/badge/APL-003B6F?style=flat&logoColor=white)
+![Brainfuck](https://img.shields.io/badge/Brainfuck-333333?style=flat&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logoColor=white)
 
-<details>
-<summary><strong>🌐 Web & Frontend</strong></summary>
+**Data & Databases**
 
-| Language / Framework | Proficiency | Notes |
-|----------------------|-------------|-------|
-| **TypeScript** | ███████████ Expert | Type safety, advanced generics |
-| **JavaScript** | ███████████ Expert | ESNext, runtime internals |
-| **React.js** | ███████████ Expert | Hooks, concurrent features, RSC |
-| **Vue** | ██████████░ Expert | Composition API, Nuxt ecosystem |
-| **HTML / CSS** | ███████████ Expert | Semantic markup, cascade mastery |
-| **Tailwind CSS** | ██████████░ Expert | Utility-first, design systems |
-| **HTMX** | ████████░░░ Advanced | Hypermedia-driven architecture |
-| **Alpine.js** | ███████░░░░ Proficient | Lightweight reactivity |
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-FD6C2E?style=flat&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-00758F?style=flat&logoColor=white)
+![HQL](https://img.shields.io/badge/HQL-59666C?style=flat&logoColor=white)
 
-</details>
+**Scripting & Automation**
 
-<details>
-<summary><strong>⚙️ Backend & Server-Side</strong></summary>
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logoColor=white)
 
-| Language | Proficiency | Notes |
-|----------|-------------|-------|
-| **Go** | ██████████░ Expert | Concurrency, microservices, CLI tools |
-| **Python** | ███████████ Expert | Systems scripting, ML pipelines, APIs |
-| **Java** | ██████████░ Expert | JVM internals, Spring ecosystem |
-| **Kotlin** | █████████░░ Expert | Coroutines, multiplatform |
-| **Scala** | ████████░░░ Advanced | Functional programming, Akka, Spark |
-| **Ruby** | ███████░░░░ Proficient | Rails, metaprogramming |
-| **PHP** | ███████░░░░ Proficient | Laravel, legacy modernization |
-| **Elixir** | ████████░░░ Advanced | OTP, fault-tolerant distributed systems |
-| **Groovy** | ██████░░░░░ Proficient | Gradle, scripting, Jenkins DSL |
-| **Flask** | ████████░░░ Advanced | REST APIs, lightweight services |
+**Blockchain**
 
-</details>
-
-<details>
-<summary><strong>🎯 Functional & Esoteric</strong></summary>
-
-| Language | Proficiency | Notes |
-|----------|-------------|-------|
-| **Haskell** | ████████░░░ Advanced | Monads, type classes, pure FP |
-| **F#** | ███████░░░░ Proficient | .NET functional, type providers |
-| **Clojure** | ███████░░░░ Proficient | LISP on JVM, immutable data |
-| **Erlang/Elixir** | ████████░░░ Advanced | BEAM VM, actor model |
-| **R** | ██████░░░░░ Proficient | Statistical computing, data viz |
-| **APL** | █████░░░░░░ Intermediate | Array programming, mathematical notation |
-| **Brainfuck** | ████░░░░░░░ Intermediate | Turing completeness minimalism |
-| **Prolog** | ██████░░░░░ Proficient | Logic programming, constraint solving |
-| **Fortran** | █████░░░░░░ Intermediate | HPC, scientific legacy |
-
-</details>
-
-<details>
-<summary><strong>📱 Mobile & Cross-Platform</strong></summary>
-
-| Language | Proficiency | Notes |
-|----------|-------------|-------|
-| **Swift** | ████████░░░ Advanced | iOS/macOS native, SwiftUI |
-| **Dart** | ████████░░░ Advanced | Flutter, cross-platform |
-| **Kotlin** | █████████░░ Expert | Android native, KMP |
-| **Lua / Luau** | ███████░░░░ Proficient | Embedded scripting, Roblox platform |
-
-</details>
-
-<details>
-<summary><strong>🗄️ Data & Query Languages</strong></summary>
-
-| Technology | Proficiency | Notes |
-|------------|-------------|-------|
-| **SQL** | ███████████ Expert | Query optimization, indexing strategies |
-| **PL/SQL** | ██████████░ Expert | Oracle stored procedures, packages |
-| **HQL** | ████████░░░ Advanced | Hibernate query language |
-| **MySQL** | ██████████░ Expert | Performance tuning, replication |
-| **Oracle** | █████████░░ Expert | Enterprise DB, RAC, partitioning |
-| **Firebird** | ███████░░░░ Proficient | Embedded databases, ISQL |
-| **MongoDB** | █████████░░ Expert | Aggregation pipelines, sharding |
-| **NoSQL** | ████████░░░ Advanced | Redis, Cassandra, DynamoDB patterns |
-| **MATLAB** | ███████░░░░ Proficient | Numerical computing, signal processing |
-
-</details>
-
-<details>
-<summary><strong>🔐 Blockchain & Smart Contracts</strong></summary>
-
-| Technology | Proficiency | Notes |
-|------------|-------------|-------|
-| **Solidity** | █████████░░ Expert | EVM, DeFi protocols, security patterns |
-
-</details>
-
-<details>
-<summary><strong>🖥️ Scripting & Automation</strong></summary>
-
-| Language | Proficiency | Notes |
-|----------|-------------|-------|
-| **Bash** | ███████████ Expert | System automation, CI/CD pipelines |
-| **PowerShell** | █████████░░ Expert | Windows automation, DSC |
-| **Batch** | ███████░░░░ Proficient | Legacy Windows scripting |
-| **Perl** | ██████░░░░░ Proficient | Text processing, legacy sysadmin |
-| **C#** | █████████░░ Expert | .NET ecosystem, game dev (Unity) |
-
-</details>
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
 ---
 
-## 🏗️ Architecture Philosophy
+### 📊 Stats
 
-```
-                    ┌─────────────────────────────────────┐
-                    │           USER / CLIENT              │
-                    └──────────────┬──────────────────────┘
-                                   │
-              ┌────────────────────▼────────────────────┐
-              │         PRESENTATION LAYER               │
-              │    React · Vue · HTMX · Alpine · WASM   │
-              └────────────────────┬────────────────────┘
-                                   │
-              ┌────────────────────▼────────────────────┐
-              │           API / GATEWAY LAYER            │
-              │      Go · Rust · Elixir · Node.js       │
-              └────────┬───────────────────┬────────────┘
-                       │                   │
-         ┌─────────────▼──────┐   ┌────────▼──────────────┐
-         │   BUSINESS LOGIC   │   │    EVENT / MESSAGE     │
-         │  Kotlin · Scala    │   │   Kafka · RabbitMQ     │
-         │  Python · Java     │   │   Elixir OTP           │
-         └─────────────┬──────┘   └────────────────────────┘
-                       │
-         ┌─────────────▼──────────────────────────────────┐
-         │              DATA LAYER                         │
-         │  PostgreSQL · Oracle · MySQL · MongoDB · Redis  │
-         └─────────────┬──────────────────────────────────┘
-                       │
-         ┌─────────────▼──────────────────────────────────┐
-         │           INFRASTRUCTURE / SYSTEMS              │
-         │       C · C++ · Rust · Assembly · Zig           │
-         └────────────────────────────────────────────────┘
-```
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PulseKn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulseKn&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PulseKn&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Pulse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pulse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pulse&layout=compact&theme=tokyonight&hide_border=true&langs_count=12)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pulse&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🧩 What I Build
-
-```python
-domains = {
-    "systems":       ["kernels", "compilers", "runtimes", "embedded"],
-    "web":           ["full-stack apps", "APIs", "real-time systems"],
-    "data":          ["pipelines", "query optimization", "warehousing"],
-    "blockchain":    ["smart contracts", "DeFi", "on-chain tooling"],
-    "mobile":        ["iOS", "Android", "cross-platform Flutter"],
-    "automation":    ["CI/CD", "infrastructure", "scripting"],
-    "functional":    ["type-safe systems", "pure FP", "DSLs"],
-    "esoteric":      ["because understanding the weird makes the rest obvious"]
-}
-```
-
----
-
-## 🔭 Currently Exploring
-
-- `WASM` components model + component linking across language boundaries
-- `Zig` as a C replacement in systems tooling
-- `Elixir` LiveView for reactive server-side UI without JS overhead
-- Formal verification patterns borrowed from `Haskell` applied to `Rust`
-
----
-
-## 📫 Reach Out
-
-```json
-{
-  "open_to":   ["collaboration", "open source", "architecture discussions"],
-  "not_open_to": ["buzzword-driven rewrites", "framework worship"]
-}
-```
-
----
-
-<div align="center">
-
-*"I don't chase stacks. I understand them."*
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pulse.pulse)
-
-</div>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=PulseKn.PulseKn)
