@@ -15,7 +15,10 @@
 
 <h3 align="center">Full-stack engineer and systems programmer with 5+ years of experience across the entire stack.</h3>
 <h4 align="center">
-  Hey i am Pulse, i know well over 50 coding languaches and i love programming. Check my stats below .
+  I work from bare-metal assembly up to reactive frontends — and everything in between.<br>
+  50+ languages. Not collected for the sake of it. Picked up because the job called for them.<br>
+  Most of what's here is stuff that needed to exist or wasn't built the right way anywhere else.<br>
+  Got something hard to build? Good — that's the interesting kind.
 </h4>
 
 ---
@@ -39,18 +42,7 @@
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PulseKn&theme=radical&hide_border=true&border_radius=10&stroke=FF00FF&ring=FF00FF&fire=FF6B6B&currStreakLabel=FF00FF&sideLabels=FF00FF&dates=aaa&card_width=600)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PulseKn&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulseKn&theme=radical&hide_border=true&layout=compact&langs_count=14&card_width=340" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=PulseKn&theme=radical&hide_border=true&border_radius=12&stroke=FF00FF&ring=FF00FF&fire=FF6B6B&currStreakLabel=FF00FF&sideLabels=FF00FF&dates=aaaaaa&card_width=860&font_size=20&background=0D1117&sideNums=FF00FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -76,26 +68,6 @@
 ### 📡 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PulseKn&theme=react-dark&hide_border=true&area=true&color=FF00FF&line=FF6B6B&point=ffffff)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/PulseKn/PulseKn/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 🏅 Trophies & Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=PulseKn&theme=radical&no-frame=true&no-bg=false&column=-1&margin-w=6&margin-h=6)
 
 </div>
 
@@ -276,7 +248,7 @@
 
 ### 📬 Contact
 
-<a href="https://discord.com">
+<a href="https://discord.gg/9bNkN3We8C">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=fff" />
 </a>
 &nbsp;
