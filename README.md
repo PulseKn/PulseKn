@@ -1,259 +1,1506 @@
-<div align="center">
+# Awesome Developer Profile
 
-## C:\Users\Pulse 👋
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/coderjojo/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme) [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Systems+Programmer;50%2B+Languages+%26+Counting;From+Assembly+to+Cloud-Native;5%2B+Years+Building+Real+Things)](https://git.io/typing-svg)
+Curated list of Developer Github Profiles for your inspiration.
 
-![Counter](https://komarev.com/ghpvc/?username=PulseKn&color=blueviolet&style=flat-square&label=Profile+Views)
-![Render](https://hit.yhype.me/github/profile?account_id=PulseKn)
-![Followers](https://img.shields.io/github/followers/PulseKn?style=flat-square&color=blueviolet&label=Followers)
-![Stars](https://img.shields.io/github/stars/PulseKn?style=flat-square&color=yellow&label=Total+Stars)
+Follow this guide: [GitHub new feature to add README on your Profile ](https://dev.to/coderjojo/github-new-feature-to-add-readme-on-your-profile-ggc)
 
-</div>
 
----
+This repository was inspired from [Developer Portfolios](https://github.com/emmabostian/developer-portfolios) github repository.
 
-<h3 align="center">Full-stack engineer and systems programmer with 5+ years of experience across the entire stack.</h3>
-<h4 align="center">
-  I work from bare-metal assembly up to reactive frontends — and everything in between.<br>
-  50+ languages. Not collected for the sake of it. Picked up because the job called for them.<br>
-  Most of what's here is stuff that needed to exist or wasn't built the right way anywhere else.<br>
-  Got something hard to build? Good — that's the interesting kind.
-</h4>
+Make your Profile look good & Inspire other's. Don't forget to leave :star: if you found this helpful.
+
+**Jump to:** | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
 
 ---
 
-<div align="center">
+## A
 
-### 🏆 Coder Score & Grade
+- [AaGiingu](https://github.com/Giingu)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/AaGii.webp">
+  </details>
+- [Aakarsh B](https://github.com/Aakarsh-B)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Aakarsh.webp">
+  </details>
+- [Aakash Sinha](https://github.com/isupersky)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/AakashSinha.webp">
+  </details>
+- [Abhinandan Trilokia](https://github.com/Trilokia)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/trilokia.webp">
+  </details>
+- [Abhinav Sharma](https://github.com/ABSphreak)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/ABSphreak.webp">
+  </details>
+- [Abhishek Singh Dhadwal](https://github.com/AbhishekSinghDhadwal)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/AbhishekSinghDhadwal.webp">
+  </details>
+- [Abhishek Sisodiya](https://github.com/sisodiya2421)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/sisodiya2421.webp">
+  </details>
+- [AbTrax](https://github.com/AbTrax)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/AbTrax.webp">
+  </details>
+- [acervenky](https://github.com/acervenky)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/acervenky.webp">
+  </details>
+- [Adam Alston](https://github.com/adamalston)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/AdamAlston.webp">
+  </details>
+- [Aditya Kumar](https://github.com/AdityaKumar28)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/adityakumar28.webp">
+  </details>
+- [Adnan Azmee](https://github.com/adnanazmee)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/adnanazmee.webp">
+  </details>
+- [Adrian Sudbury](https://github.com/asudbury)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/asudbury.webp">
+  </details>
+- [Aditya Vikram Singh](https://github.com/AVS1508)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/AVS1508.webp">
+  </details>
+- [Aenq](https://github.com/aenq)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/aenq.webp">
+  </details>
+- [aeris](https://github.com/aeristhy)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/aeristhy.webp">
+  </details>
+- [afc163](https://github.com/afc163)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/afc163.webp">
+  </details>
+- [Ahsan Khan](https://github.com/ahsankhan26)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/ahsankhan26.webp">
+  </details>
+- [Akas Rai](https://github.com/akasrai)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/akasrai.webp">
+  </details>
+- [Akash Patel](https://github.com/imakash3011)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/imakash3011.webp">
+  </details>
+- [Amado Abaca](https://github.com/amadoabaca)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/amado.webp">
+  </details>
+- [Alessandra Bilardi](https://github.com/bilardi)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/bilardi.webp">
+  </details>
+- [Alfred Dagenais](https://github.com/alfreddagenais)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/alfreddagenais.webp">
+  </details>
+- [Aman Ansari](https://github.com/aman-atg)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/aman-atg.webp">
+  </details>
+- [Aman Anku](https://github.com/amananku26)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/amananku26.webp">
+  </details>
+- [Aman Kumar Dewangan](https://github.com/amandewatnitrr)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Amandewatnitrr.webp">
+  </details>
 
-![Grade](https://img.shields.io/badge/Coder%20Grade-A%2B-FF00FF?style=for-the-badge&logo=githubactions&logoColor=fff)
-![XP](https://img.shields.io/badge/Experience-5%2B%20Years-blueviolet?style=for-the-badge&logo=apachespark&logoColor=fff)
-![Languages](https://img.shields.io/badge/Languages%20Known-50%2B-ff4757?style=for-the-badge&logo=stackexchange&logoColor=fff)
-![Stack](https://img.shields.io/badge/Stack-Full--Stack-00d2d3?style=for-the-badge&logo=serverless&logoColor=fff)
-![Systems](https://img.shields.io/badge/Systems-Low--Level%20Expert-ffa502?style=for-the-badge&logo=gnubash&logoColor=fff)
-![Blockchain](https://img.shields.io/badge/Blockchain-Smart%20Contracts-2ed573?style=for-the-badge&logo=ethereum&logoColor=fff)
+- [Amay Jain](https://github.com/vrindavan)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/vrindavan.webp">
+  </details>
 
-</div>
+- [Aman Kumar](https://github.com/amankrx)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/amankrx.webp">
+  </details>
+- [Ana Caroline Sanchez Silva](https://github.com/anacaroliness9)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/anacaroliness9.webp">
+  </details>
 
----
+- [Andrew Grant](https://github.com/Andrew6rant)
+  <details>
+    <summary>Preview</summary>
+    <a href="https://github.com/Andrew6rant/Andrew6rant">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
+        <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+      </picture>
+    </a>
+  </details>
 
-<div align="center">
+- [Anh-Thi DINH](https://github.com/dinhanhthi)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/AnhThiDINH.webp">
+  </details>
 
-### 🔥 GitHub Streak
+- [Anirudh Belwadi](https://github.com/anirudhbelwadi)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/anirudhbelwadi.webp">
+  </details>
+- [AnOrdinaryUsername](https://github.com/AnOrdinaryUsername)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/anordinaryusername.webp">
+  </details>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PulseKn&theme=radical&hide_border=true&border_radius=12&stroke=FF00FF&ring=FF00FF&fire=FF6B6B&currStreakLabel=FF00FF&sideLabels=FF00FF&dates=aaaaaa&card_width=860&font_size=20&background=0D1117&sideNums=FF00FF)](https://git.io/streak-stats)
+- [Anurag Hazra](https://github.com/anuraghazra)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/anuraghazra.webp">
+  </details>
 
-</div>
+- [Anushka Verma](https://github.com/verma-anushka)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/verma-anushka.webp">
+  </details>
+- [Apinan Yogaratnam](https://github.com/apinanyogaratnam)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/apinanyogaratnam.webp">
+  </details>
+- [Ari](https://github.com/ari-hacks)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/ari-hacks.webp">
+  </details>
+- [Arturs Smirnovs](https://github.com/arturssmirnovs)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/arturssmirnovs.webp">
+  </details>
+- [Arunsridher Ambati](https://github.com/arunsridher)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Arunsridher.webp">
+  </details>
+- [Aryan Upadhyay](https://github.com/aryan-upa)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/aryan-upa.webp">
+  </details>
+- [Asmit Malakannawar](https://github.com/Asmit2952)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Asmit2952.webp">
+  </details>
+- [Avinal Kumar](https://github.com/avinal)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/avinal.webp">
+  </details>
 
----
+## B
 
-<div align="center">
+- [Bayrem Gharsellaoui](https://github.com/kaizoku-oh)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/kaizoku-oh.webp">
+  </details>
+- [Bardiesel](https://github.com/bardiesel)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Bardiesel.webp">
+  </details>
+- Bereket Semagn (profile deleted or username changed)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/BereketSemagn.webp">
+  </details>
+ 
+- [Bhagawat Adhikari](https://github.com/BhagawatAdhikari/bhagawatadhikari)
+     <details>
+        <summary>Preview</summary>
+        <img src="EXAMPLES/BhagawatAdhikari.webp">
+     </details>
+  
+- Bilgehan Gecici (profile deleted or username changed)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Bgstatic.webp">
+  </details>
+- [Bloedboemmel](https://github.com/bloedboemmel)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/bloedboemmel.webp">
+  </details>
+- [Braydon Wang](https://github.com/braydonwang)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/braydonwang.webp">
+  </details>
+- [breakdowns](https://github.com/breakdowns)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/breakdowns.webp">
+  </details>
+- [Brian Douglas](https://github.com/bdougie)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/bdougie.webp">
+  </details>
+- [Bugahontas](https://github.com/bugahontas)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/bugahontas.webp">
+  </details>
 
-### 📈 Contribution Summary
+## C
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PulseKn&theme=radical)
+- [Cameron Thompson](https://github.com/cdthomp1)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/cdthomp1.webp">
+  </details>
+- [Camila L. Oliveira](https://github.com/clcmo)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/clcmo.webp">
+  </details>
+- [Candida Noronha](https://github.com/Candida18)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Candida18.webp">
+  </details>
+- [Carlos Ubaldo](https://github.com/accomigt)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/accomigt.webp">
+  </details>
+- [Caroline Heloíse](https://github.com/Carol42)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Carol42.webp">
+  </details>
+- [Chiraag Kakar](https://github.com/chiraag-kakar)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/chiraag-kakar.webp">
+  </details>
+- [Chandan Kushwaha](https://github.com/chandanck22)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/chandan.webp">
+  </details>
+- [Claudio Wunder](https://github.com/ovflowd)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/ovflowd.webp">
+  </details>
+- [Chege Bryan](https://github.com/ChegeBryan)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/ChegeBryan.webp">
+  </details>
+- [Clark](https://github.com/ms314006)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/ms314006.webp">
+  </details>
+- [chinmay29hub](https://github.com/chinmay29hub)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/chinmay29hub.webp">
+  </details>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PulseKn&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PulseKn&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PulseKn&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PulseKn&theme=radical&utcOffset=0" />
+## D
 
-</div>
+- [dahhd](https://github.com/dahhd)
+    <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/dahhd.webp">
+    </details>
 
----
+- [Daniel Caballero](https://github.com/danielcaballero796)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/danielcaballero.webp">
+  </details>
 
-<div align="center">
+- [Daniel Cavero](https://github.com/danielex1999)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/danielex1999.webp">
+  </details>
 
-### 📡 Activity Graph
+- [Daniel Moya](https://github.com/dmoyadev)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/dmoyadev.webp">
+  </details>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PulseKn&theme=react-dark&hide_border=true&area=true&color=FF00FF&line=FF6B6B&point=ffffff)
+- [Danilo Barreto](https://github.com/danilobbezerra)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/danilobbezerra.webp">
+  </details>
+- [Dario De Nardi](https://github.com/dariodenardi)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/dariodenardi.webp">
+  </details>
 
-</div>
+- [Darshan R](https://github.com/darshanr27)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/darshanr27.webp">
+  </details>
 
----
+- [DavidsDvm](https://github.com/DavidsDvm)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/DavidsDvm.webp">
+  </details>
 
-<h3 align="center">🛠️ Languages & Technologies</h3>
+- [Dean Harold P. Abad](https://github.com/DeanAbad)
+    <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/DeanAbad.webp">
+    </details>
 
-<h4 align="center">⚙️ Systems & Low-Level</h4>
-<p align="center">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=fff" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=fff" />
-  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=fff" />
-  <img alt="WebAssembly" src="https://img.shields.io/badge/WASM-654FF0?style=flat-square&logo=webassembly&logoColor=fff" />
-  <img alt="Zig" src="https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=fff" />
-  <img alt="Pascal" src="https://img.shields.io/badge/Pascal-003A6C?style=flat-square&logoColor=fff" />
-  <img alt="Fortran" src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=fff" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff" />
-</p>
+- [Dedar Alam](https://github.com/devded)
+    <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/devded.webp">
+    </details>
 
-<h4 align="center">🌐 Web & Frontend</h4>
-<p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" />
-  <img alt="HTMX" src="https://img.shields.io/badge/HTMX-3D72D7?style=flat-square&logoColor=fff" />
-  <img alt="Alpine.js" src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=000" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff" />
-  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=fff" />
-  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=fff" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff" />
-  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logoColor=fff" />
-</p>
+- [deep5050](https://github.com/deep5050)
+  <details>
+  <summary>Preview</summary>
+  <img loading="lazy" src="EXAMPLES/deep5050.webp">
+    </details>
 
-<h4 align="center">🔧 Backend & Server-Side</h4>
-<p align="center">
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=fff" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff" />
-  <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=fff" />
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=fff" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff" />
-  <img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=fff" />
-  <img alt="Groovy" src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=fff" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=fff" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=fff" />
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=fff" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=fff" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=fff" />
-  <img alt="Deno" src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=fff" />
-  <img alt="Bun" src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=fff" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=fff" />
-  <img alt="Perl" src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=fff" />
-</p>
+- [DeepaPrasanna](https://github.com/DeepaPrasanna)
+  <details>
+  <summary>Preview</summary>
+  <img loading="lazy" src="EXAMPLES/DeepaPrasanna.webp">
+    </details>
 
-<h4 align="center">📱 Mobile & Cross-Platform</h4>
-<p align="center">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=fff" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=fff" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=fff" />
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=fff" />
-  <img alt="Luau" src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logoColor=fff" />
-</p>
+- [deetoo](https://github.com/deetoo)
+  <details>
+  <summary>Preview</summary>
+  <img loading="lazy" src="EXAMPLES/deetoo.webp">
+    </details>
 
-<h4 align="center">🧠 Functional & Esoteric</h4>
-<p align="center">
-  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=fff" />
-  <img alt="F#" src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=fff" />
-  <img alt="Clojure" src="https://img.shields.io/badge/Clojure-5881D8?style=flat-square&logo=clojure&logoColor=fff" />
-  <img alt="Prolog" src="https://img.shields.io/badge/Prolog-E61B23?style=flat-square&logoColor=fff" />
-  <img alt="APL" src="https://img.shields.io/badge/APL-003B6F?style=flat-square&logoColor=fff" />
-  <img alt="Brainfuck" src="https://img.shields.io/badge/Brainfuck-333333?style=flat-square&logoColor=fff" />
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=fff" />
-  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=fff" />
-  <img alt="Erlang" src="https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=fff" />
-  <img alt="OCaml" src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=fff" />
-  <img alt="Lisp" src="https://img.shields.io/badge/Lisp-3F3F3F?style=flat-square&logoColor=fff" />
-</p>
+- [Derek Mohr (OneMohrTime)](https://github.com/onemohrtime)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/onemohrtime.webp">
+  </details>
 
-<h4 align="center">🗄️ Data & Databases</h4>
-<p align="center">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=fff" />
-  <img alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=fff" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=fff" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=fff" />
-  <img alt="Firebird" src="https://img.shields.io/badge/Firebird-FD6C2E?style=flat-square&logoColor=fff" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff" />
-  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=fff" />
-  <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=fff" />
-  <img alt="HQL" src="https://img.shields.io/badge/HQL-59666C?style=flat-square&logoColor=fff" />
-  <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-00758F?style=flat-square&logoColor=fff" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=fff" />
-</p>
+- [DenverCoder1](https://github.com/DenverCoder1)
+  <details>
+  <summary>Preview</summary>
+  <img loading="lazy" src="EXAMPLES/DenverCoder1.webp">
+    </details>
 
-<h4 align="center">🔐 Blockchain & Web3</h4>
-<p align="center">
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=fff" />
-  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=fff" />
-  <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=fff" />
-  <img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=000" />
-  <img alt="IPFS" src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=fff" />
-</p>
+- [Devesh Kumar Singh](https://github.com/Devesh-19)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Devesh-19.webp">
+  </details>
+- [Dhruv Mehta](https://github.com/Dhruv-194)
+  <details>
+   <summary>Preview</summary>
+   <img loading="lazy" src="EXAMPLES/DhruvMehta.webp">
+  </details>
 
-<h4 align="center">⌨️ Scripting & Automation</h4>
-<p align="center">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=fff" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=fff" />
-  <img alt="Batch" src="https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logoColor=fff" />
-  <img alt="Perl" src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=fff" />
-  <img alt="Make" src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=cmake&logoColor=fff" />
-</p>
+- [Dineshkarthik](https://github.com/Dineshkarthik)
+    <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/Dineshkarthik.webp">
+    </details>
 
-<h4 align="center">☁️ DevOps, Cloud & Infrastructure</h4>
-<p align="center">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=fff" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=fff" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=fff" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff" />
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=fff" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=fff" />
-  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=fff" />
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=fff" />
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=fff" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000" />
-  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=fff" />
-</p>
+- [Dipanjan De](https://github.com/bacon-delight)
+    <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/Dipanjan.webp">
+    </details>
 
-<h4 align="center">🧰 Tools & Editors</h4>
-<p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" />
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=fff" />
-  <img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078D4.svg?style=flat-square&logo=vscode&logoColor=fff" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=fff" />
-  <img alt="Vim" src="https://img.shields.io/badge/Vim-11AB00?style=flat-square&logo=vim&logoColor=fff" />
-  <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=fff" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=fff" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff" />
-  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" />
-  <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=fff" />
-  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=fff" />
-  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=fff" />
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=fff" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=fff" />
-  <img alt="Ngrok" src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=fff" />
-</p>
+- [Douglas Ferreira](https://github.com/DouglasDRF)
+    <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/DouglasDRF.webp">
+    </details>
 
----
+- [Dustin Kelly](https://github.com/dustin100)
+   <details>
+     <summary>Preview</summary>
+     <img loading="lazy" src="EXAMPLES/dustin100.webp">
+  </details>
 
-<h3 align="center">🖥️ OS & Browsers</h3>
-<p align="center">
-  <img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=fff" />
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=fff" />
-  <img alt="Kali" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=fff" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=fff" />
-  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=fff" />
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=fff" />
-  <img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave&logoColor=fff" />
-  <img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=fff" />
-  <img alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=tor-browser&logoColor=fff" />
-</p>
+## E
 
----
+- [Eana Hufwe](https://github.com/blueset)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/blueset.webp">
+  </details>
+- [Ednei Almeida](https://github.com/edmaxi)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/EdMaxi.webp">
+  </details>
+- [Emerson Thompson](https://github.com/thompsonemerson)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/thompsonemerson.webp">
+  </details>
+- [Evaristo Cuesta](https://github.com/evaristocuesta)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/evaristocuesta.webp">
+  </details>
+- [Esrat Maria](https://github.com/EsratMaria)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/EsratMaria.webp">
+  </details>
 
-<div align="center">
+## F
 
-### 📬 Contact
+- [fadyehabamer](https://github.com/fadyehabamer)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/fadyamer.webp">
+  </details>
+- [furkan-gulsen](https://github.com/Furkan-Gulsen)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/furkan-gulsen.webp">
+  </details>
 
-<a href="https://discord.gg/9bNkN3We8C">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=fff" />
-</a>
-&nbsp;
-<a href="https://github.com/PulseKn">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
-</a>
+## G
 
-</div>
+- [Gabriel Arruda](https://github.com/gabriel-arrvda)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/gabriel-arrvda.webp">
+  </details>
+
+- [Gabriel Xavier](https://github.com/gabrielmxavier)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/gabrielxavier.webp">
+  </details>
+
+- [Gustavo Soriano](https://github.com/gustavosoriano)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/soriano.webp">
+  </details>
+
+## H
+
+- [Halfrost](https://github.com/halfrost)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/halfrost.webp">
+  </details>
+- [hashfx](https://github.com/hashfx)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/hashfx.webp">
+  </details>
+- [Hemaraj Dhakal](https://github.com/Hemraj183)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Hemraj183.webp">
+  </details>
+- [Heguke](https://github.com/heguke)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/heguke.webp">
+  </details>
+- [Hanshul Chandel](https://github.com/hanshulll)
+  <details>
+   <summary>Preview</summary>
+   <img loading="lazy" src="EXAMPLES/hanshul.webp">
+   </details>
+- [HyunSun](https://github.com/HyunCafe)
+  <details>
+   <summary>Preview</summary>
+   <img loading="lazy" src="EXAMPLES/hyunsun.webp">
+   </details>
+
+## I
+
+- [Ian Sebastian Mathew](https://github.com/iansmathew)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/iansmathew.webp">
+  </details>
+- [Ibrahim Olayinka](https://github.com/IbrahimOlayinka)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/IbrahimOlayinka.webp">
+  </details>
+- [Ike](https://github.com/magic-ike)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/magic-ike.webp">
+  </details>
+- [Israel Laguan](https://github.com/Israel-Laguan/Israel-Laguan)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Israel-Laguan.webp">
+  </details>
+- [Ishika Kesarwani](https://github.com/ishikkkkaaaa)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/ishikkkkaaaa.webp">
+  </details>
+- [Ish Kapoor](https://github.com/ishkapoor2000)
+  <details>
+    <summary>Preview</summary>
+    <img height="640px" width="auto" src="EXAMPLES/ishkapoor2000.webp">
+  </details>
+- [Ivan](https://github.com/imickovski)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/imickovski.webp">
+  </details>
+- [Ivelin](https://github.com/Iwi4a)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/thisisivolondon.webp">
+  </details>
+- [Isha2103](https://github.com/Isha2103)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Isha2103.webp">
+  </details>
+
+## J
+
+- [Jacques Blom](https://github.com/jacques-blom)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/jacques-blom.webp">
+  </details>
+- [Jason Lengstorf](https://github.com/jlengstorf)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/jlengstorf.webp">
+  </details>
+- [Jatin Yadav](https://github.com/jatiinyadav)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/jatiinyadav.webp">
+  </details>
+- [Jaye Hernandez](https://github.com/jayehernandez)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/jayehernandez.webp">
+  </details>
+- [Jean Jacques Barros](https://github.com/jjeanjacques10)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/jjeanjacques10.webp">
+  </details>
+- [Jeremy Erik Leong](https://github.com/JeremyL95)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/jeremyl95.webp">
+  </details>
+- [Jessica Lim](https://github.com/jessicalim8)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/JessicaLim8.webp">
+  </details>
+- [Jishan Shaikh](https://github.com/jishanshaikh4)
+   <details>
+     <summary>Preview</summary>
+     <img loading="lazy" src="EXAMPLES/jishanshaikh4.webp">
+   </details>
+- [Joykishan Sharma](https://github.com/JoykishanSharma)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/JoykishanSharma.webp">
+  </details>
+- [JayB Kim](https://github.com/kogisin)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/JayB.webp">
+  </details>
+
+## K
+
+- [Karan Chandekar](https://github.com/KaranChandekar)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/karan.webp">
+  </details>
+
+- [Karina Chichifoi](https://github.com/TryKatChup)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/trykatchup.webp">
+  </details>
+
+- [Karras](https://github.com/karras)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/karras.webp">
+  </details>
+
+- [Karthik Nayak](https://github.com/KarthikNayak024)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/KarthikNayak024.webp">
+  </details>
+
+- [KasRoudra](https://github.com/KasRoudra)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/KasRoudra.webp">
+  </details>
+
+- [Kavin Valli](https://github.com/kavinvalli)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/kavinvalli.webp">
+  </details>
+
+- [Knightbearr](https://github.com/knightbearr)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/knightbearr.webp">
+  </details>
+- [Kiran Babu Muddam](https://github.com/kiranmuddam)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/kiranmuddam.webp">
+  </details>
+- [Kunal Dongre](https://github.com/Kd-Here)
+  <details>
+    <summary>Preview</summary>
+    <img loading='lazy' src = "EXAMPLES/Kd-Here.webp">
+  </details>
+- [Kwangsing3](https://github.com/kwangsing3)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/kwangsing3.webp">
+  </details>
+
+## L
+
+- [L0um15](https://github.com/L0um15)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/L0um15.webp">
+  </details>
+- [LachlanDev](https://github.com/LachlanDev)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/lachlan-dev.webp">
+  </details>
+- [Leandro Simões](https://github.com/leandrosimoes)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/leandrosimoes.webp">
+  </details>
+- [Loftwah](https://github.com/loftwah)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/loftwah.webp">
+  </details>
+- [Luca Fluri](https://github.com/lucafluri)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/lucafluri.webp">
+  </details>
+- [Lucas Henrique](https://github.com/LucasHenrique-dev)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/lucas-henrique.webp">
+  </details>
+- [Luis Silva](https://github.com/luis-gustavoj)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/luis-gustavoj.webp">
+  </details>
+- [Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/lukas-batema.webp">
+  </details>
+- [Lunar Lynix](https://github.com/lunarlynix)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/lunarlynix.webp">
+  </details>
+
+## M
+
+- [M1troll](https://github.com/M1troll)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/M1troll.webp">
+  </details>
+- [mahmoud miehob](https://github.com/MahmoudMiehob)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/mahmoud.webp">
+  </details>
+- [Mahendra](https://github.com/hendrasob)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/hendrasob.webp">
+  </details>
+- [Manigandan Dharmalingam](https://github.com/manigandand)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/manigandand.webp">
+  </details>
+- [Manoj Boddu](https://github.com/manumanoj0010)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/manumanoj0010.webp">
+  </details>
+- [Mark Jesper Pillerva](https://github.com/mark123jesper)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/mark123jesper.webp">
+  </details>
+- [Mars Hsu](https://github.com/Pudding124)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Pudding124.webp">
+  </details>
+- [Matteas Eden](https://github.com/Matteas-Eden)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/matteas-eden.webp">
+  </details>
+- [Maximiliano Sandoval](https://github.com/maxisandoval37)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/maxisandoval37.webp">
+  </details>
+- [Maya Gershovitz Bar](https://github.com/mgershovitz)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/mgershovitz.webp">
+  </details>
+- [Mei Sun](https://github.com/meisun0107)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/meisun0107.webp">
+  </details>
+- [Melvin Jones Repol](https://github.com/mrepol742)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/mrepol742.webp">
+  </details>
+- [Michele Righi](https://github.com/mikyll)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/mikyll.webp">
+  </details>
+- [Miguel22247](https://github.com/Miguel22247)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Miguel22247.webp">
+  </details>
+- [Mikhail Chigrin](https://github.com/frozrt)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/frozrt.webp">
+  </details>
+- [Mit Patel](https://github.com/mitp7)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/mitp7.webp">
+  </details>
+- [Mpho Mphego](https://github.com/mmphego)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/mmphego.webp">
+  </details>
+- [Md Farhaan](https://github.com/mdfarhaan)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/MdFarhaan.webp">
+  </details>
+- [Monica Powell](https://github.com/M0nica)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/M0nica.webp">
+  </details>
+- [Moshfiqur Rahman Rony](https://github.com/moshfiqrony)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/moshfiqrony.webp">
+  </details>
+- [Mridul Panda](https://github.com/Mridul2820)
+  <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/Mridul2820.webp">
+  </details>
+- [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/msameerfarooq.webp">
+  </details>
+- [Mukul Sharma](https://github.com/mukul98s)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/mukul98s.webp">
+  </details>
+- [Murshid Azher](https://github.com/murshidazher)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/murshidazher.webp">
+  </details>
+- [Murari Sabavath](https://github.com/murarisabavath)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/murarisabavath.webp">
+  </details>
+- [mrdulin](https://github.com/mrdulin)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/mrdulin.webp">
+  </details>
+
+## N
+
+- [Kunware Nakul Singh Bhati](https://github.com/nakulbhati)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/nakulbhati.webp">
+  </details>
+- [Naina Upadhyay](https://github.com/naina25)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/naina25.webp">
+  </details>
+- [Naman Parashar](https://github.com/nparashar150)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/nparashar150.webp">
+  </details>
+- [Nathan Araújo](https://github.com/ntaraujo)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="https://user-images.githubusercontent.com/66187211/127872882-89388699-4603-4ae6-a2ab-4b446afb1874.webp">
+  </details>
+- [Nelson Alba Jr. 許鑫偉 (nelly)](https://github.com/nellyXinwei)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/nellyXinwei.webp">
+  </details>
+- [Nikunj Sharma](https://github.com/nouveau-riche)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/nouveau-riche.webp">
+  </details>
+- [Nikita Babko ](https://github.com/nikitababko)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/nikitababko.webp">
+  </details>
+- [Nikita Jain ](https://github.com/nikita1610)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/nikita1610.webp">
+  </details>
+- [Nilutpol Kashyap](https://github.com/nilutpolkashyap)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="https://raw.githubusercontent.com/nilutpolkashyap/creative-profile-readme/master/EXAMPLES/nilutpol_kashyap_github.webp">
+  </details>
+- [Nitish Bhatt](https://github.com/initishbhatt)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/initishbhatt.webp">
+  </details>
+- [nixdonut](https://github.com/nixdonut)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/nixdonut.webp">
+  </details>
+
+## O
+
+- [Ojaswi Awasthi](https://github.com/Ojaswi2000)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Ojaswi2000.webp">
+  </details>
+- [Oktay Kır](https://github.com/OKTAYKIR)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/oktaykir.webp">
+  </details>
+- [OOQQ](https://github.com/OOQQ)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/OOQQ.webp">
+  </details>
+- [Oscar](https://github.com/blue-1ms)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/blue-1ms.webp">
+  </details>
+
+## P
+
+- [Pato Montecchiarini](https://github.com/pmontecchiarini)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/pmontecchiarini.webp">
+  </details>
+- [Patrick Guo](https://github.com/shpatrickguo)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/patrickguo.webp">
+  </details>
+- [Pavel Rahman](https://github.com/pavstar619)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/pavstar619.webp">
+  </details>
+- [Peter Han](https://github.com/peterthehan)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/peterthehan.webp">
+  </details>
+- [Phanison](https://github.com/phanison898)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Phanison898.webp">
+  </details>
+- [Philippe Henrique](https://github.com/srphilippe)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/srphilippe.webp">
+  </details>
+- [Piyush Suthar](https://github.com/piyushsuthar)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/piyushsuthar.webp">
+  </details>
+- [Platane](https://github.com/platane)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/platane.webp">
+  </details>
+- [Polina Simonenko](https://github.com/rabarbra)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/rabarbra.webp">
+  </details>
+- [Pouya Saadeghi](https://github.com/saadeghi)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/saadeghi.webp">
+
+  Don't try to play it here!
+  </details>
+
+- [Praneeth Reddy](https://github.com/Praneeth-rdy)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/praneeth-rdy.webp">
+  </details>
+- [Pranjal Gupta](https://github.com/pranjal36)
+  <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/pranjal36.webp">
+  </details>
+
+- [Pratik Kumar](https://github.com/pr2tik1)
+  <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/pr2tik1.webp">
+  </details>
+- [Prasad Narkhede](https://github.com/p014ri5)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/p014ri5.webp">
+  </details>
+- [Priyanshu Roy](https://github.com/roypriyanshu02)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/roypriyanshu02.webp">
+  </details>
+
+## R
+
+- [Rahul Dhanola](https://github.com/DHANOLA)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/dhanola.webp">
+  </details>
+
+- [Racheli ver](https://github.com/racheliver)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/racheliver.webp">
+  </details>
+
+- [Rachitt Shah](https://github.com/godslayer201)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/RachiitShah.webp">
+  </details>
+
+- [Radha](https://github.com/RK1905101)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/RK1905101.webp">
+  </details>
+
+- [Ram Prakash](https://github.com/thedoodler)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/thedoodler.webp">
+  </details>
+- [Ramesh chandra](https://github.com/Rameshchandrapola)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Rameshchandrapola.webp">
+  </details>
+
+- [Raushan Kumar](https://github.com/raushan606)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/raushan606.webp">
+  </details>
+
+- [Rafael Freitas](https://github.com/RafaelOFreitas)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/RafaelOFreitas.webp">
+  </details>
+- [Ray Arayilakath](https://github.com/RayhanADev)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/RayhanADev.webp">
+  </details>
+- [Rishika Ghosh](https://github.com/RishikaGhosh)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/RishikaGhosh.webp">
+  </details>
+
+- [Ritam Chakraborty](https://github.com/RitamChakraborty)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/RitamChakraborty.webp">
+  </details>
+
+- [Reski Mulud Muchamad](https://github.com/reskimulud)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/reskimulud.webp">
+  </details>
+
+- [Rohit Kumar Saini](https://github.com/rockingrohit9639)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/rohitsaini.webp">
+  </details>
+
+- [Ronan D'Souza](https://github.com/ronan696)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/ronan696.webp">
+  </details>
+- [Rounak Neogy](https://github.com/RounakNeogy)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/RounakNeogy.webp">
+  </details>
+- [Rudik Rompich](https://github.com/rudikschess)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/rudikschess.webp">
+  </details>
+
+- [Rudraksh Kanekar](https://github.com/RudrakshK)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/RudrakshK.webp">
+  </details>
+
+## S
+
+- [Sabbir Mollah](https://github.com/SabbirMollah)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/SabbirMollah.webp">
+  </details>
+- [Sagar Sharma](https://github.com/Sagar-Sharma-7)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="https://user-images.githubusercontent.com/78422995/127335711-590c57fb-ede2-4dda-8a0f-6a310e131221.webp">
+  </details>
+- [Samyuktha Sudhakar](https://github.com/samyukthasudhakar)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/samyukthasudhakar.webp">
+  </details>
+- [Sarfaraz Ahmad](https://github.com/GoogolDKhan)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/GoogolDKhan.webp">
+  </details>
+- [Sarthak Mittal](https://github.com/mostlypanda)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/mostlypanda.webp">
+  </details>
+- [Saurabh Kumar](https://github.com/Saurabh2509)
+  <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/Saurabh2509.webp">
+  </details>
+- [Saurav Chamoli](https://github.com/sauravchamoli17)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/sauravchamoli.webp">
+  </details>
+
+- [Shaan Khan](https://github.com/ShaanCoding)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/ShaanCoding.webp">
+  </details>
+- [Shawn Pereira](https://github.com/recurshawn)
+  <details>
+   <summary>Preview</summary>
+   <img loading="lazy" src="EXAMPLES/recurshawn.webp">
+  </details>
+
+- [Shree Vatsa N](https://github.com/vatsa287)
+  <details>
+   <summary>Preview</summary>
+   <img loading="lazy" src="EXAMPLES/ShreeVatsaN.webp">
+  </details>
+
+- [Siddharth Chandra](https://github.com/siddharth2016)
+  <details>
+   <summary>Preview</summary>
+   <img loading="lazy" src="EXAMPLES/siddharth2016.webp">
+  </details>
+
+- [Shiryel](https://github.com/shiryel)
+  <details>
+   <summary>Preview</summary>
+   <img loading="lazy" src="EXAMPLES/shiryel.webp">
+  </details>
+
+- [Shivashish](https://github.com/shivashishy)
+  <details>
+   <summary>Preview</summary>
+   <img loading="lazy" src="EXAMPLES/shivashish.webp">
+  </details>
+
+- [Simon Willison](https://github.com/simonw)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/simonw.webp">
+  </details>
+- [Sindre Sorhus](https://github.com/sindresorhus)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/sindresorhus.webp">
+
+  Yes, it's a GIF of a Loading Octocat!
+  </details>
+
+- [Sneha Kumari](https://github.com/Snehakri022)
+   <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Snehakri022.webp">
+  </details>
+
+- [Soha Hussain](https://github.com/SohaHussain)
+   <details>
+     <summary>Preview</summary>
+     <img loading="lazy" src="EXAMPLES/SohaHussain.webp">
+   </details>
+
+- [Somnath Paul](https://github.com/SP-XD)
+   <details>
+     <summary>Preview</summary>
+     <img loading="lazy" src="EXAMPLES/SP-XD.webp">
+   </details>
+
+- [SparkScratch-P (Prodyumna Pal) ](https://github.com/SparkScratch-P)
+   <details>
+     <summary>Preview</summary>
+     <img loading="lazy" src="EXAMPLES/SparkScratch-P (Prodyumna Pal).webp">
+   </details>
+
+- [Srihari Kapu](https://github.com/sriharikapu)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/sriharikapu.webp">
+  </details>
+
+- [Stanley Lim](https://github.com/Spiderpig86)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Spiderpig86.webp">
+  </details>
+- [Stefan Herold](https://github.com/blackjacx)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/blackjacx.webp">
+  </details>
+- [Sudip Mondal](https://github.com/sudip-mondal-2002)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/sudip-mondal-2002.webp">
+  </details>
+- [Sudipto Ghosh](https://github.com/pydevsg)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/pydevsg.webp">
+  </details>
+- [Sukru Uzel](https://github.com/suzel)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/suzel.webp">
+  </details>
+
+- [Suman Chandra](https://github.com/ajay02111)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/ajay02111.webp">
+  </details>
+
+- [Sumanth Talluri](https://github.com/Sumanth-Talluri)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Sumanth-Talluri.webp">
+  </details>
+
+- [SynthesisDu](https://github.com/SynthesisDu)
+  <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/SynthesisDu.webp">
+  </details>
+- [System-Glitch](https://github.com/System-Glitch)
+  <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/System-Glitch.webp">
+  </details>
+
+## T
+
+- [Thales Brederodes](https://github.com/ThalesBMC)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Thales.webp">
+  </details>
+- [Thaiane Braga](https://github.com/Thaiane)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Thaiane.webp">
+  </details>
+- [Thiago Souza](https://github.com/thiagodesouza)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/thiagodesouza.webp">
+  </details>
+- [Tien Huynh TN](https://github.com/tienhuynh-tn)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/tienhuynh-tn.webp">
+</details>
+
+- [Tim Burgan](https://github.com/timburgan)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/timburgan.webp">
+
+  Too large to fit, too fun to not play!
+  </details>
+
+- [Tim James](https://github.com/Tim-W-James)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/timjames.webp">
+  </details>
+- [Trinib](https://github.com/trinib/)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/trinib.webp">
+  </details>
+- [Thang Truong](https://github.com/yensubldg)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/yensubldg.webp">
+  </details>
+
+## U
+
+- [Uannabi](https://github.com/uannabi)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/uannabi.webp">
+  Too large to fit, too fun to not play!
+  </details>
+- [Udbhav Gambhir](https://github.com/ngudbhav)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/ngudbhav.webp">
+  </details>
+
+## V
+
+- [Vaibhav Vikas](https://github.com/vaibhavvikas)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/vaibhavvikas.webp">
+  </details>
+- [Varun Kumar Tiwari](https://github.com/varunKT001)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/varunKT001.webp">
+  </details>
+- [Vatana Chhorn](https://github.com/VatanaChhorn)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/vatana.webp">
+  </details>
+- [Vedant Jajoo](https://github.com/coderjojo)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/coderjojo.webp">
+  </details>
+- [Vimal Kumar](https://github.com/vimalverma558)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/vimalverma558.webp">
+  </details>
+- [Vikash Kumar](https://github.com/Codefreak69)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/VikashKumar.webp">
+  </details>
+- [Vishwasa Navada K](https://github.com/vishwasnavadak)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/vishwasnavadak.webp">
+  </details>
+- [Vladimir Brejcha](https://github.com/VladimirBrejcha)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/vladimirbrejcha.webp">
+  </details>
+
+## W
+
+- [Waren Gonzaga](https://github.com/WarenGonzaga)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/WarenGonzaga.webp">
+  </details>
+
+- [Waylon Walker](https://github.com/WaylonWalker)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/WaylonWalker.webp">
+  </details>
+
+- [Willnaoosmith](https://github.com/willnaoosmith)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Willnaoosmith.webp">
+  </details>
+
+- [Wvle](https://github.com/oayodeji)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/wvle.webp">
+  </details>
+
+## Y
+
+- [Yashita Namdeo](https://github.com/yashitanamdeo)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/yashitanamdeo.webp">
+  </details>
+
+- [yashsehgal](https://github.com/yashsehgal)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/yashsehgal.webp">
+  </details>
+
+- [Yauhen Kavalchuk](https://github.com/yauhenkavalchuk)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/yauhenkavalchuk.webp">
+  </details>
+
+## Z
+
+- [zmcx16](https://github.com/zmcx16)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/zmcx16.webp">
+  </details>
+
+- [ZamranxD](https://github.com/ZamranxD)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/ZamranxD.webp">
+  </details>
