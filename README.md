@@ -18,7 +18,7 @@ I spend most of my time Reverse engineering malawre and making bypass for adlink
 
 ### What I know well
 
-`C++` `Lua` `Luau` `JavaScript` `C` `C#` `TypeScript` `SQL` `NoSQL` `Redis` `Ruby` `Pascal` `Node.js` `HTML` `CSS` `Python` `HTML5` `Tailwind` `Scala` `Go` `PHP`
+* **Languages:** `C++` `Lua` `Luau` `JavaScript` `C` `C#` `TypeScript` `SQL` `NoSQL` `Redis` `Ruby` `Pascal` `Node.js` `HTML` `CSS` `Python` `HTML5` `Tailwind` `Scala` `Go` `PHP`
 
 ### I love :
 
