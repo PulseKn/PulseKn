@@ -20,9 +20,9 @@ I spend most of my time Reverse engineering malawre and making bypass for adlink
 
 `C++` `Lua` `Luau` `JavaScript` `C` `C#` `TypeScript` `SQL` `NoSQL` `Redis` `Ruby` `Pascal` `Node.js` `HTML` `CSS` `Python` `HTML5` `Tailwind` `Scala` `Go` `PHP`
 
-### Also comfortable with
+### I love :
 
-`Rust` and picking up whatever a project needs
+`Rust` 
 
 ---
 
