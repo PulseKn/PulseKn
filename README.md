@@ -26,6 +26,7 @@ I spend most of my time Reverse engineering malawre and making bypass for adlink
 
 ### If you ever want to contact me : 
 Discord user : `Pulsefr.`
+
 My discord server : https://discord.gg/cJ3VxhJFth
 
 ---
