@@ -4,8 +4,7 @@
 
 Reverse Engineer · Cyber Analyst · Malware Analyst
 
-I spend most of my time pulling binaries apart and figuring out what they're actually doing.
-Security has been the constant thread through everything I build and break. 🔐
+I spend most of my time Reverse engineering malawre and making bypass for adlinks!
 
 </div>
 
@@ -14,7 +13,7 @@ Security has been the constant thread through everything I build and break. 🔐
 ### What I do
 
 - **Reverse engineering** — static/dynamic analysis, unpacking, disassembly
-- **Malware analysis** — behavioral analysis, sandboxing, IOC extraction
+- **Malware analysis** — behavioral analysis
 - **Cyber analysis** — threat research, vulnerability triage
 
 ### What I know well
