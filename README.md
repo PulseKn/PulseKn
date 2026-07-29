@@ -16,7 +16,7 @@ I spend most of my time Reverse engineering malawre and making bypass for adlink
 - **Malware analysis** — behavioral analysis
 - **Cyber analysis** — threat research, vulnerability triage
 
-### The Coding languaches i know preety well:
+### What i know preety well
 
 * **Languages:** `C++` `Lua` `Luau` `JavaScript` `C` `C#` `TypeScript` `SQL` `NoSQL` `Redis` `Ruby` `Pascal` `Node.js` `HTML` `CSS` `Python` `HTML5` `Tailwind` `Scala` `Go` `PHP`
 
