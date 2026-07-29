@@ -22,7 +22,7 @@ I spend most of my time Reverse engineering malawre and making bypass for adlink
 
 ### I love :
 
-`Rust` 
+`Rust`& `Cpp`
 
 ---
 
