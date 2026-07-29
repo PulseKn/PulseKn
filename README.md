@@ -24,6 +24,9 @@ I spend most of my time Reverse engineering malawre and making bypass for adlink
 
 `Rust`& `Cpp`
 
+### Education & Certifications
+CompTIA Security+ · GREM · CS50x · Practical Malware Analysis (TCM)
+
 ### If you ever want to contact me : 
 Discord user : `Pulsefr.`
 
