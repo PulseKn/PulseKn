@@ -129,7 +129,7 @@ I spend most of my time reversing, unpacking malware,and making bots, APIs, and 
 </p>
 
 <p align="center" style="max-width: 600px; margin: 0 auto; color:#94A3B8;">
-  High-speed automated adlink bypass and link resolution Discord bot.
+  Discord bot that bypasses adlink at impressive speeds.
 </p>
 
 <p align="center">
