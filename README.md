@@ -111,6 +111,12 @@ I spend most of my time dissecting binaries, unpacking malware payloads, and bui
 </a>
 </p>
 
+<p align="center">
+<a href="https://discord.gg/uvSXsT5FVk">
+<img src="https://img.shields.io/badge/Discord_Server-Join_Community-111827?style=for-the-badge&logo=discord&logoColor=94A3B8&labelColor=1F2937">
+</a>
+</p>
+
 <br><br>
 
 <h2 align="center">Upcoming Project</h2>
