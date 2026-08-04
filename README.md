@@ -15,50 +15,40 @@
 </div>
 
 <p align="center">
-Specialized in <b>Reverse Engineering</b>, static/dynamic malware analysis, disassembly, and creating adlink bypasses.
-I spend most of my time reversing, unpacking malware,and making bots, APIs, and userscripts. Loving <b>C++</b> and <b>JavaScript</b> for low-level memory operations.
+Specialized in <b>Reverse Engineering</b>, static/dynamic malware analysis, disassembly, and writing adlink bypasses.
+<br>
+I spend most of my time dissecting binaries, unpacking malware payloads, and building automation tools, bots, and APIs. Loving <b>C++</b> and <b>Rust</b> for low-level memory operations.
 </p>
 
 <br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PulseKn&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulseKn&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=PulseKn&theme=radical&hide_border=true&fire=FF6B6B" alt="GitHub Streak" />
-  </a>
-</p>
-
-<br clear="left">
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?text=My%20Skills&animation=fadeIn&fontColor=ffff&type=waving&color=_custom_gradient&height=100&stroke=000000&strokeWidth=3" style="border-radius: 20px;" />
 </div>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><b>Tech Stack</b></td>
-<td align="center"><b>Databases</b></td>
-<td align="center"><b>Tools & Infra</b></td>
+<th align="center" width="25%">Languages</th>
+<th align="center" width="25%">Tech Stack</th>
+<th align="center" width="25%">Databases</th>
+<th align="center" width="25%">Tools & Infra</th>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" valign="top">
 
 <img src="https://cdn.simpleicons.org/cplusplus/94A3B8" width="32" title="C++">
 <img src="https://cdn.simpleicons.org/c/94A3B8" width="32" title="C">
 <img src="https://cdn.simpleicons.org/rust/94A3B8" width="32" title="Rust">
-<img src="https://cdn.simpleicons.org/python/94A3B8" width="32" title="Python">
 <br><br>
+<img src="https://cdn.simpleicons.org/python/94A3B8" width="32" title="Python">
 <img src="https://cdn.simpleicons.org/javascript/94A3B8" width="32" title="JavaScript">
 <img src="https://cdn.simpleicons.org/typescript/94A3B8" width="32" title="TypeScript">
+<br><br>
 <img src="https://cdn.simpleicons.org/lua/94A3B8" width="32" title="Lua">
 <img src="https://cdn.simpleicons.org/go/94A3B8" width="32" title="Go">
-<br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32" title="C#">
+<br><br>
 <img src="https://cdn.simpleicons.org/html5/94A3B8" width="32" title="HTML5">
 <img src="https://cdn.simpleicons.org/css/94A3B8" width="32" title="CSS">
 <img src="https://cdn.simpleicons.org/gnubash/94A3B8" width="32" title="Bash">
@@ -67,7 +57,7 @@ I spend most of my time reversing, unpacking malware,and making bots, APIs, and 
 
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
 <img src="https://cdn.simpleicons.org/nodedotjs/94A3B8" width="32" title="Node.js">
 <img src="https://cdn.simpleicons.org/express/94A3B8" width="32" title="Express">
@@ -79,19 +69,18 @@ I spend most of my time reversing, unpacking malware,and making bots, APIs, and 
 
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
 <img src="https://cdn.simpleicons.org/postgresql/94A3B8" width="32" title="SQL / PostgreSQL">
 <img src="https://cdn.simpleicons.org/mysql/94A3B8" width="32" title="MySQL">
+<img src="https://cdn.simpleicons.org/sqlite/94A3B8" width="32" title="SQLite">
 <br><br>
 <img src="https://cdn.simpleicons.org/mongodb/94A3B8" width="32" title="NoSQL / MongoDB">
 <img src="https://cdn.simpleicons.org/redis/94A3B8" width="32" title="Redis">
-<br><br>
-<img src="https://cdn.simpleicons.org/sqlite/94A3B8" width="32" title="SQLite">
 
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
 <img src="https://cdn.simpleicons.org/linux/94A3B8" width="32" title="Linux">
 <img src="https://cdn.simpleicons.org/docker/94A3B8" width="32" title="Docker">
@@ -111,6 +100,7 @@ I spend most of my time reversing, unpacking malware,and making bots, APIs, and 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Find%20me&fontColor=FFFFFF&stroke=000000&strokeWidth=2&color=0:111827,35:374151,70:6B7280,100:D1D5DB" style="border-radius: 20px;" />
 </div>
+
 <p align="center">
 <a href="https://github.com/PulseKn">
 <img src="https://img.shields.io/badge/GitHub-@PulseKn-111827?style=for-the-badge&logo=github&logoColor=94A3B8&labelColor=1F2937">
@@ -130,7 +120,7 @@ I spend most of my time reversing, unpacking malware,and making bots, APIs, and 
 </p>
 
 <p align="center" style="max-width: 600px; margin: 0 auto; color:#94A3B8;">
-  Discord bot for bypassing adlinks at an impressive speed!.
+  High-speed automated adlink bypass and link resolution Discord bot.
 </p>
 
 <p align="center">
