@@ -16,7 +16,7 @@
 
 <p align="center">
 Specialized in <b>Reverse Engineering</b>, static/dynamic malware analysis, disassembly, and writing adlink bypasses.
-I spend most of my time dissecting binaries, unpacking malware payloads, and building automation tools, bots, and APIs. Loving <b>C++</b> and <b>Rust</b> for low-level memory operations.
+I spend most of my time reversing, unpacking malware,and making bots, APIs, and userscripts. Loving <b>C++</b> and <b>JavaScript</b> for low-level memory operations.
 </p>
 
 <br>
@@ -130,7 +130,7 @@ I spend most of my time dissecting binaries, unpacking malware payloads, and bui
 </p>
 
 <p align="center" style="max-width: 600px; margin: 0 auto; color:#94A3B8;">
-  High-speed automated adlink bypass and link resolution Discord bot.
+  Discord bot for bypassing adlinks at an impressive speed!.
 </p>
 
 <p align="center">
