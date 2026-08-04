@@ -15,8 +15,8 @@
 </div>
 
 <p align="center">
-Specialized in <b>Reverse Engineering</b>, static/dynamic malware analysis, disassembly, and adlink bypasses.
-I spend most of my time reversing engineer, unpacking malware payloads. Loving <b>C++</b> and <b>Rust</b> .
+Specialized in <b>Reverse Engineering</b>, static/dynamic malware analysis, disassembly, and writing adlink bypasses.
+I spend most of my time dissecting binaries, unpacking malware payloads, and building automation tools, bots, and APIs. Loving <b>C++</b> and <b>Rust</b> for low-level memory operations.
 </p>
 
 <br>
@@ -41,6 +41,7 @@ I spend most of my time reversing engineer, unpacking malware payloads. Loving <
 <tr>
 <td align="center"><b>Languages</b></td>
 <td align="center"><b>Tech Stack</b></td>
+<td align="center"><b>Databases</b></td>
 <td align="center"><b>Tools & Infra</b></td>
 </tr>
 
@@ -57,10 +58,12 @@ I spend most of my time reversing engineer, unpacking malware payloads. Loving <
 <img src="https://cdn.simpleicons.org/lua/94A3B8" width="32" title="Lua">
 <img src="https://cdn.simpleicons.org/go/94A3B8" width="32" title="Go">
 <br><br>
-<img src="https://cdn.simpleicons.org/csharp/94A3B8" width="32" title="C#">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32" title="C#">
 <img src="https://cdn.simpleicons.org/html5/94A3B8" width="32" title="HTML5">
-<img src="https://cdn.simpleicons.org/css3/94A3B8" width="32" title="CSS3">
+<img src="https://cdn.simpleicons.org/css/94A3B8" width="32" title="CSS">
 <img src="https://cdn.simpleicons.org/gnubash/94A3B8" width="32" title="Bash">
+<br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="32" title="PowerShell">
 
 </td>
 
@@ -70,9 +73,21 @@ I spend most of my time reversing engineer, unpacking malware payloads. Loving <
 <img src="https://cdn.simpleicons.org/express/94A3B8" width="32" title="Express">
 <img src="https://cdn.simpleicons.org/fastapi/94A3B8" width="32" title="FastAPI">
 <br><br>
-<img src="https://cdn.simpleicons.org/redis/94A3B8" width="32" title="Redis">
-<img src="https://cdn.simpleicons.org/postgresql/94A3B8" width="32" title="PostgreSQL">
+<img src="https://cdn.simpleicons.org/flask/94A3B8" width="32" title="Flask">
 <img src="https://cdn.simpleicons.org/react/94A3B8" width="32" title="React">
+<img src="https://cdn.simpleicons.org/vite/94A3B8" width="32" title="Vite">
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/postgresql/94A3B8" width="32" title="SQL / PostgreSQL">
+<img src="https://cdn.simpleicons.org/mysql/94A3B8" width="32" title="MySQL">
+<br><br>
+<img src="https://cdn.simpleicons.org/mongodb/94A3B8" width="32" title="NoSQL / MongoDB">
+<img src="https://cdn.simpleicons.org/redis/94A3B8" width="32" title="Redis">
+<br><br>
+<img src="https://cdn.simpleicons.org/sqlite/94A3B8" width="32" title="SQLite">
 
 </td>
 
@@ -84,7 +99,6 @@ I spend most of my time reversing engineer, unpacking malware payloads. Loving <
 <br><br>
 <img src="https://cdn.simpleicons.org/wireshark/94A3B8" width="32" title="Wireshark">
 <img src="https://cdn.simpleicons.org/kalilinux/94A3B8" width="32" title="Kali Linux">
-<img src="https://cdn.simpleicons.org/powershell/94A3B8" width="32" title="PowerShell">
 
 </td>
 </tr>
@@ -116,7 +130,7 @@ I spend most of my time reversing engineer, unpacking malware payloads. Loving <
 </p>
 
 <p align="center" style="max-width: 600px; margin: 0 auto; color:#94A3B8;">
-  Very fast automated adlink bypass and link resolution Discord bot.
+  High-speed automated adlink bypass and link resolution Discord bot.
 </p>
 
 <p align="center">
