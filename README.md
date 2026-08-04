@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1513195149683982438/1531947997762556036/FDC551A3-D363-487E-A8EA-212FFFA8E603.gif?ex=6a73a300&is=6a725180&hm=8b14d2fc6d6dbce17ebb29d64198dc7522809a986392edc899484d5c4da042b4&" alt="header banner" style="border-radius: 20px; max-width: 100%;">
-  <p><strong>"Trust me, I got nothing for you other than love"</strong></p>
+  <p><strong>"Why Stress out when u can chill with me FR"</strong></p>
 
   <h1 align="center">Hi there 🕊️, I'm Pulse</h1>
 
