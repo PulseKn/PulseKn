@@ -6,7 +6,7 @@
 
   <p align="center">
     <span style="color:#94A3B8;">
-      Reverse Engineer • Cyber Analyst • Malware Analyst
+      Reverse Engineer • Cyber Analyst • Malware Analyst • Cheat Developer
     </span>
   </p>
 
