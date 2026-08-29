@@ -20,7 +20,7 @@
 <p align="center">
 Specialized in <b>Reverse Engineering</b>, static/dynamic malware analysis, disassembly, and creating adlink bypasses.
 <br>
-I spend most of my time reversing, unpacking malware,and making bots, APIs, and userscripts. Loving <b>C++</b> and <b>JavaScript</b> for low-level memory operations.
+I spend most of my time reversing, unpacking malware,and making bots, APIs, and userscripts. Loving <b>C++</b> and <b>JavaScript</b> for everything .
 </p>
 
 <br>
