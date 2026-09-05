@@ -125,11 +125,11 @@ I spend most of my time reversing, unpacking malware,and making bots, APIs, and 
 <h2 align="center">Upcoming Project</h2>
 
 <p align="center">
-  <strong>LinkHive Bot</strong>
+  <strong>Lua Obfuscator</strong>
 </p>
 
 <p align="center" style="max-width: 600px; margin: 0 auto; color:#94A3B8;">
-  Discord bot that bypasses adlink at impressive speeds.
+  An Free/Paid Lua obfuscator that protects your lua code .
 </p>
 
 <p align="center">
