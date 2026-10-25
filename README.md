@@ -125,11 +125,11 @@ I spend most of my time reversing,creating api s& userscripts for bypass. Loving
 <h2 align="center">Upcoming Project</h2>
 
 <p align="center">
-  <strong>Lua Obfuscator</strong>
+  <strong>Crust</strong>
 </p>
 
 <p align="center" style="max-width: 600px; margin: 0 auto; color:#94A3B8;">
-                     Crust
+                     Coding Language
 </p>
 
 <p align="center">
