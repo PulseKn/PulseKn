@@ -129,12 +129,12 @@ I spend most of my time reversing,creating api s& userscripts for bypass. Loving
 </p>
 
 <p align="center" style="max-width: 600px; margin: 0 auto; color:#94A3B8;">
-  An Free/Paid Lua obfuscator that protects your lua code .
+                     Crust
 </p>
 
 <p align="center">
   <span style="color:#64748B;">
-    Clean, fast, and effortless link processing.
+    Clean, Easy to learn, Very Fast coding language
   </span>
 </p>
 
